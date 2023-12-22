@@ -1,3 +1,2 @@
-# buildspace 
 ### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
+I developed a GPT-3-based itinerary generator project designed to streamline travel planning. Leveraging the powerful natural language processing capabilities of GPT-3, the system takes user preferences, budget constraints, and travel dates as input to generate personalized and comprehensive travel itineraries. The generator suggests optimal routes, recommends accommodations, dining options, and activities based on user preferences, creating a seamless and tailored travel experience. The project aims to simplify the often overwhelming task of planning trips, offering users a convenient and efficient way to curate their travel plans with minimal effort.
